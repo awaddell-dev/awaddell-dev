@@ -1,5 +1,5 @@
 ## Hi, I'm Alex 👋
-[LinkedIn](https://www.linkedin.com/in/alex-waddell-5082a429b)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-waddell-5082a429b)
 
 I'm transitioning from Active Duty Combat Engineer Squad Leader to Software Engineer!
 
