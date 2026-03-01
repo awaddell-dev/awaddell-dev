@@ -1,7 +1,7 @@
 ## Hi, I'm Alex 👋
 [![LinkedIn](https://img.shields.io/badge/linkedin-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-waddell-5082a429b)
 
-I'm transitioning from Active Duty Combat Engineer Squad Leader to Software Engineer!
+I'm transitioning from Army Combat Engineer Squad Leader (Staff Sergeant/E6) to Software Engineer!
 
 Focused on Full-Stack Development, AI-driven systems, and scalable backend architecture.
 
