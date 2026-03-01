@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Alex 👋
+[LinkedIn](https://www.linkedin.com/in/alex-waddell-5082a429b)
+
+I'm transitioning from Active Duty Combat Engineer Squad Leader to Software Engineer!
+
+Focused on Full-Stack Development, AI-driven systems, and scalable backend architecture.
+
+- 💸 Building an AI powered stock trading assistant (early stage development)
+- 🌱 Developing full-stack applications with React, Node.js, Express, and Tailwind CSS through Creating Coding Careers
+- 📖 Junior at California Institute of Applied Technology earning my Bachelor's of Applied Software Development Degree
 
 <!--
 **awaddell-dev/awaddell-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
